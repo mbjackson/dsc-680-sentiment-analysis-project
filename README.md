@@ -1,1 +1,1 @@
-# DSC 680 (Applied Data Science) - Sentiment Analysis Project
+# Sentiment Analysis - COVID-19 Tweets
