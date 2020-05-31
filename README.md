@@ -1,1 +1,1 @@
-# dsc-680-sentiment-analysis-project
+# DSC 680 (Applied Data Science) - Sentiment Analysis Project
