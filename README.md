@@ -1,1 +1,1 @@
-# Sentiment Analysis - COVID-19 Tweets
+# Sentiment Analysis - Tweets
